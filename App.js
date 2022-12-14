@@ -22,13 +22,13 @@ class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#489458',
+    backgroundColor: '#0091ad',
   },
   logo: {
     justifyContent: 'center',
     alignItems: 'center',
     marginTop: 50,
-    height: 200
+    height: 130
   },
   title: {
     color: '#ffffff',

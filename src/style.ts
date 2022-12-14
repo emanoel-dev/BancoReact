@@ -8,11 +8,11 @@ export const styles = StyleSheet.create({
       },
       textNome: {
         color: '#fff',
-        fontSize: 20,
+        fontSize: 18,
       },
       textSexo: {
         color: '#fff',
-        fontSize: 20,
+        fontSize: 18,
         marginTop: 20
       },
       textIdade: {
@@ -41,7 +41,6 @@ export const styles = StyleSheet.create({
         borderColor: '#999999',
         backgroundColor: '#EEEEEE',
         color: '#000000',
-        height: 40,
         width: 200,
       },
       areaLimite: {
